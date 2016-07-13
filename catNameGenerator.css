@@ -1,0 +1,53 @@
+@import url(https://fonts.googleapis.com/css?family=Acme|Chewy);
+
+body {
+  background-color: #ffff80;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  font-family: Chewy;
+  font-size: 2.0em;
+  color: #000080;
+  padding-top: 20px;
+}
+
+a:link {
+  text-decoration: none;
+  color: #000080;
+}
+
+#title {
+  padding-top: 20px;
+}
+
+h1 {
+  font-family: Acme;
+  text-align: center;
+  font-size: 3.5em;
+}
+
+#para1 {
+  font-family: Acme;
+  text-align: center;
+}
+
+#para2 {
+  font-family: Acme;
+  text-align: center;
+}
+
+.btn {
+  background-color: #fff;
+  border: none;
+  color:  #000080;
+}
+
+.catName {
+  font-family: Chewy;
+  font-size: 2.0em;
+  color: #008000;
+  text-align: center;
+  padding-top: 20px;
+}
